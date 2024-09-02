@@ -20,9 +20,9 @@ Die Pipeline besteht aus den folgenden Schritten:
 3. **Multinomial Naive Bayes Classifier**: Führt die eigentliche Klassifikation durch, basierend auf den vorherigen Transformationen.
 
 Um die Übungsaufgabe auszuführen:
-1. Führen Sie zuerst die Pipeline mit den Trainingsdaten (`X_train` und `y_train`) durch, um das Modell zu trainieren. 
-2. Verwenden Sie das trainierte Modell, um Vorhersagen für die Testdaten (`X_test`) zu treffen.
-3. Bewerten Sie die Vorhersagen, indem Sie eine **Confusion Matrix** und einen **Classification Report** erstellen.
+1. Führen Sie zuerst die Pipeline mit den Trainingsdaten "X_train" und "y_train" durch, um das Modell zu trainieren. 
+2. Verwenden Sie das trainierte Modell, um Vorhersagen für die Testdaten "X_test" zu treffen.
+3. Bewerten Sie die Vorhersagen, indem Sie eine Confusion Matrix und einen Classification Report erstellen.
 
 # Erwartete Ergbnisse
 
