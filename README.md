@@ -13,7 +13,9 @@ Alle Bewertungen starten mit 0 "Cool"-Votes und es gibt nach oben kein Limit. Je
 Für die "useful" (dt. nützlich) und "funny" (dt. witzig) Spalten gilt das gleiche.
 
 # Ausführung
-Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehenden Binder Bagde Link. Folgen Sie den Anweisungen innerhalb des Notebooks, um die Daten zu laden, vorzuverarbeiten, die Modelle zu trainieren und die Ergebnisse zu evaluieren.
+Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehenden Binder Bagde Link. Folgen Sie den Anweisungen innerhalb des Notebooks, um die Daten zu laden, vorzuverarbeiten, die Modelle zu trainieren und die Ergebnisse zu evaluieren. Sobald das Notbook geöffnet wurden, gehen Sie bitte auf den Reiter "Edit" und drücken Sie "Clear Outputs of all Cells". Nachdem Sie das gemacht haben, können Sie auf "Run all Cells" klicken um den Code auszuführen
+
+
 Die Pipeline besteht aus den folgenden Schritten:
 1. **CountVectorizer**: Wandelt den Text in eine numerische Darstellung um, indem es die Häufigkeit jedes Wortes zählt.
 2. **TfidfTransformer**: Verfeinert die numerische Darstellung, indem es häufige Wörter herunterstuft und seltene Wörter aufwertet.
