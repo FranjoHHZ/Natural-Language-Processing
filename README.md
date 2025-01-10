@@ -32,5 +32,8 @@ Nach dem Ausführen der Vorhersagen und der Evaluierung sollten Sie eine Confusi
 
 Das Ergebnis zeigt auch, dass die Verwendung von TF-IDF (Term Frequency-Inverse Document Frequency) möglicherweise die Ergebnisse verschlechtert hat, da die Unterscheidungskraft zwischen den beiden Kategorien verringert wurde. Weitere Versuche könnten beinhalten, die Pipeline-Anpassungen wie die Verwendung eines anderen Analyzers oder Modells auszuprobieren.
 
+![image](https://github.com/user-attachments/assets/da5c8809-729c-4908-9497-1651fc9ae512)
+
+
 # Binder Badge
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Natural-Language-Processing/HEAD?labpath=3-Nlp_Projekt-Loesung.ipynb)
